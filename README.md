@@ -27,7 +27,7 @@ Tic-Tac-Toe/
 │
 ├── index.html
 ├── style.css
-└── script.js
+└── app.js
 ```
 
 ## ▶️ How to Run
