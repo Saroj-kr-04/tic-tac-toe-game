@@ -1,4 +1,4 @@
-# Tic Tac Toe Game 🎮
+# Saroj kumar Tic Tac Toe Game 🎮
 
 A simple and interactive Tic Tac Toe game developed using **HTML, CSS, and JavaScript**.  
 The game allows two players to play turn by turn with automatic winner detection.
