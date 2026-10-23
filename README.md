@@ -35,7 +35,7 @@ Tic-Tac-Toe/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/Saroj-kr-04/tic-tac-toe-game.git
 ```
 
 2. Open the project folder.
